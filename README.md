@@ -2,7 +2,8 @@
 
 ![](img/gol_big.gif)
 
-The goal of this project (made in haskell) is to implement Wolfram's elementary cellular automaton in the terminal. All rules are implemented (from 0 to 255).
+The goal of this project (made in C) is to implement Wolfram's elementary cellular automaton and the famous Game of life. All Wolfram's rules are implemented (from 0 to 255).
+
 ## Installation
 This project requires csfm version 2.5
 
